@@ -10,4 +10,4 @@
 
 本站提供多种优质影视资源，满足不同用户的观影需求。每天更新最新内容，确保每位用户都能享受到精彩的影片体验。无需注册，即点即播，简单便捷，让您随时随地畅享影视乐趣。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ww20250708/ww04 ）</span>
